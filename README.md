@@ -1,5 +1,6 @@
 # Five Night's at Freddys HTML
  Containing every possible fnaf game in web browser.<br>
- Listing Fnaf; 1, 2, 3, 4, World, Sister Location, Pizzeria Simulator, and Ultimate Custom Night!<br>
+ Listing Fnaf; 1, 2, 3, 4,
+ Sister Location, Pizzeria Simulator, and Ultimate Custom Night!<br>
  Press ```-=``` for fullscreen
 NOT OFFICIAL FNAF PRODUCT. NOT APPROVED BY OR ASSOCIATED WITH SCOTT CAWTHON.
